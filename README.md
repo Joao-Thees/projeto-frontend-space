@@ -9,6 +9,8 @@ Corrobora os achados de [techxplore.com/news/2026-05-centers-nearby-temperatures
 
 ## ESTA ENTREGA É SOMENTE O FRONT END DO PROJETO. NO PROJETO PRINCIPAL, AMBOS TRABALHAM EM CONJUNTO, FORMANDO O ECOSISTEMA COMPLETO DO PROJETO. AQUI, NÃO SE VISUALIZA O MAPA, O MAPA DE CALOR E NEM RELATÓRIOS. SOMENTE HTML, CSS E JAVASCRIPT.
 
+## OS MAPAS ANALÍTICOS NÃO IRÃO CARREGAR POIS: São arquivos que trabalham com Python, arquivos .tiff, arquivos .csv e arquivos .json importados do Google Earth Engine. O objetivo deste repositório é ser puramente entregável, para não fugir dos requisitos.
+
 Tema: **"A Interface da Missão"**. A pasta entregue da FED é `FRONT/`.
 
 ### Usuário e tarefa crítica
